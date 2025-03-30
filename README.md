@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi, I'm Mirela Rodrigues!
 
+- 🚀 19 y.o.
+- 📍 São Paulo - Brazil
+- 🖥 Studying [Systems Analysis and Development](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) at FIAP.
+- 📫 How to reach me: [Mirela P S Rodrigues](https://www.linkedin.com/in/mirela-p-s-rodrigues-26344b2b6/) on Linkedin!
+
+<!-- GitHub Stats -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirelapsr&show_icons=true&theme=transparent) 
+
+  
 <!--
 **mirelapsr/mirelapsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
