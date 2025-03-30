@@ -1,4 +1,4 @@
-## Hi, I'm Mirela Rodrigues!
+## Hi, I'm Mirela Rodrigues! 🌱
 
 - 🚀 19 y.o.
 - 📍 São Paulo - Brazil
