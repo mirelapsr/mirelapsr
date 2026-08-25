@@ -2,7 +2,7 @@
   <img align="right" width="30%" src="https://i.pinimg.com/originals/ff/34/3a/ff343aa8819c2573ad3409baf4af5e3e.gif" alt="gif">
 - 🚀 19 y.o.
 - 📍 São Paulo - Brazil 
-- 🖥 Studying [Systems Analysis and Development](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/) at FIAP!
+- 🖥 Studying [IA e Big Data](https://mba.iabigdata.icmc.usp.br/) at USP and [Engenharia de Dados](https://www.mackenzie.br/pos-graduacao/pos-e-mba/sao-paulo-higienopolis/tecnologia-da-informacao/mba-em-engenharia-de-dados) at Mackenzie!
 
 ## 📫 How to reach me: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mirela_psr)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirela-p-s-rodrigues-26344b2b6)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirelapinheirosr@gmail.com)
