@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=B0F7BB&width=500&lines=Hi%2C+I'm+Mirela+Rodrigues!+%F0%9F%8C%B1)](https://git.io/typing-svg) </br>
   <img align="right" width="30%" src="https://i.pinimg.com/originals/ff/34/3a/ff343aa8819c2573ad3409baf4af5e3e.gif" alt="gif">
-- 🚀 19 y.o.
+- 🚀 20 y.o.
 - 📍 São Paulo - Brazil 
 - 🖥 Studying [AI and Big Data](https://mba.iabigdata.icmc.usp.br/) at USP and [Data Engineering](https://www.mackenzie.br/pos-graduacao/pos-e-mba/sao-paulo-higienopolis/tecnologia-da-informacao/mba-em-engenharia-de-dados) at Mackenzie!
 
